@@ -1,0 +1,11 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\TasksQueueApp\TasksQueueApp\bin\Debug\TasksQueueApp.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\TasksQueueApp\TasksQueueApp\bin\Debug\TasksQueueApp.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\TasksQueueApp\TasksQueueApp\bin\Debug\TasksQueueApp.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\TasksQueueApp\TasksQueueApp\bin\Debug\EntityFramework.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\TasksQueueApp\TasksQueueApp\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\TasksQueueApp\TasksQueueApp\bin\Debug\EntityFramework.xml
+c:\users\сикировт\documents\visual studio 2017\Projects\TasksQueueApp\TasksQueueApp\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\сикировт\documents\visual studio 2017\Projects\TasksQueueApp\TasksQueueApp\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\TasksQueueApp\TasksQueueApp\obj\Debug\TasksQueueApp.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\TasksQueueApp\TasksQueueApp\obj\Debug\TasksQueueApp.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\TasksQueueApp\TasksQueueApp\obj\Debug\TasksQueueApp.pdb
